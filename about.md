@@ -1,4 +1,3 @@
----
 layout: page
-title: About
----
+title: "Om meg"
+permalink: /about
