@@ -1,3 +1,9 @@
 theme: jekyll-theme-minimal
 title: Jonathan's CV
 description: Bookmark this to keep an eye on my project updates!
+
+---
+layout: page
+title: "Om meg"
+permalink: /about
+---
