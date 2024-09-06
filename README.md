@@ -1,1 +1,1 @@
-[Trykk for å se CV](blob/main/CV.pdf)
+[Trykk for å se CV](CV.pdf)
